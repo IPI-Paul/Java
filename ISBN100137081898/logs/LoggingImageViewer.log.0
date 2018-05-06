@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-04-15T15:34:47</date>
+  <millis>1523802887917</millis>
+  <sequence>2</sequence>
+  <logger>com.horstmann.corejava</logger>
+  <level>FINER</level>
+  <class>ImageViewerFrame</class>
+  <method>&lt;init&gt;</method>
+  <thread>46</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2018-04-15T15:34:48</date>
+  <millis>1523802888036</millis>
+  <sequence>3</sequence>
+  <logger>com.horstmann.corejava</logger>
+  <level>FINER</level>
+  <class>ImageViewerFrame</class>
+  <method>&lt;init&gt;</method>
+  <thread>46</thread>
+  <message>RETURN</message>
+</record>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jnlp spec="1.0+" codebase="http://localhost/java/" href="webapps/webstart/signed/Chapter13%20Signed.jnlp">
+  <information>
+    <title>Chapter 13 Signed Demos</title>
+    <vendor>Cay S. Horstmann</vendor>
+    <description>Chapter 13 Examples</description>
+    <offline-allowed />
+  </information>
+  <update check="always" policy="always" />
+  <resources>
+    <java version="1.6.0+" />
+    <jar href="webapps/Chapter13.jar" />
+  </resources>
+  <security>
+  	<all-permissions />
+  </security>
+  <application-desc />
+</jnlp>

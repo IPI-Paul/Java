@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jnlp spec="1.0+" codebase="http://localhost/java/" href="webapps/webstart/unsigned/Chapter08.jnlp">
+  <information>
+    <title>Chapter 08 Demos</title>
+    <vendor>Cay S. Horstmann</vendor>
+    <description>Chapter 08 Examples</description>
+    <offline-allowed />
+  </information>
+  <update check="always" policy="always" />
+  <resources>
+    <java version="1.6.0+" />
+    <jar href="webapps/Chapter08.jar" />
+  </resources>
+  <application-desc />
+</jnlp>
