@@ -1,0 +1,4 @@
+grant 
+{
+	permission chapter09.WordCheckPermission "sex,drugs,C++", "avoid";
+};

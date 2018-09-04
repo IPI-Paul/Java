@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jnlp spec="1.0+" codebase="http://www.ipi-international.co.uk/java/" href="./IPI%20Paul%20-%20Excel%20Custom%20Styles%20Remover.jnlp">
+  <information>
+    <title>IPI Paul - Java Methods</title>
+    <vendor>Paul I Ighofose</vendor>
+    <description>Java methods for productivity</description>
+    <offline-allowed />
+  </information>
+  <update check="always" policy="always" />
+  <resources>
+    <java version="1.6.0+" />
+    <jar href="./IPI%20Paul%20-%20Excel%20Custom%20Styles%20Remover.jar" main="true" download="eager" />
+  </resources>
+  <security>
+  	<all-permissions />
+  </security>
+  <application-desc />
+</jnlp>

@@ -1,0 +1,19 @@
+http://localhost
+%
+Learn Core Java Volume 1
+%
+Learn Core Java Volume 2
+%
+Learn Python
+%
+Learn C#
+%
+http://localhost/java/chapter09/FileReadApplet.html
+%
+C:\Users\Paul\Documents\Books.txt
+%
+mailto:paul@github.com?subject=Nice One!&body=Dear User,
+<br><br>Hope You find this helpful! 
+<br><br>
+Email me paul@github.com
+%

@@ -1,0 +1,13 @@
+ipi2paul@gmail.com
+paul@ipi-international.co.uk
+Java Mail Test Listing 4.8
+Dear Paul,
+
+This is a mail test to show how Java sends an email.
+
+Best regards,
+
+Yours Truly,
+
+Me;D 
+QUIT

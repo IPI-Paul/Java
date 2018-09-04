@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jnlp spec="1.0+" codebase="http://localhost/java/" href="webapps/webstart/signed/Chapter05%20Signed.jnlp">
+  <information>
+    <title>Chapter 05 Signed Demos</title>
+    <vendor>Cay S. Horstmann</vendor>
+    <description>Chapter 05 Examples</description>
+    <offline-allowed />
+  </information>
+  <update check="always" policy="always" />
+  <resources>
+    <java version="1.6.0+" />
+    <jar href="webapps/Chapter05.jar" main="true" download="eager" />
+	<jar href="drivers/derbyclient.jar" />
+	<jar href="drivers/postgresql-42.2.2.jar" />
+	<jar href="drivers/ucanaccess/commons-lang-2.6.jar" />
+	<jar href="drivers/ucanaccess/commons-logging-1.1.3.jar" />
+	<jar href="drivers/ucanaccess/hsqldb.jar" />
+	<jar href="drivers/ucanaccess/jackcess-2.1.11.jar" />
+	<jar href="drivers/ucanaccess/ucanaccess-4.0.4.jar" />
+	<jar href="drivers/mysql-connector-java-5.1.46.jar" />
+	<jar href="drivers/sqlite-jdbc-3.8.11.2.jar" />
+	<jar href="drivers/sqljdbc42.jar" />
+  </resources>
+  <security>
+  	<all-permissions />
+  </security>
+  <application-desc />
+</jnlp>

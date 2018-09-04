@@ -1,0 +1,14 @@
+grant codebase "file:webapps/JAASTest-login-ch09.jar" 
+{
+	permission java.awt.AWTPermission "showWindowWithoutWarningBanner";
+	permission java.awt.AWTPermission "accesEventQueue";
+	permission javax.security.auth.AuthPermission "createLoginContext.Login1";
+	permission javax.security.auth.AuthPermission "doAsPrivileged";
+	permission javax.security.auth.AuthPermission "modifyPrincipals";
+	permission java.io.FilePermission "sourceFiles/text/password-ch09.txt", "read";
+};
+
+grant principal chapter09.SimplePrincipal "role=admin" 
+{
+	permission java.util.PropertyPermission "*", "read";
+};

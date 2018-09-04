@@ -1,0 +1,10 @@
+grant codebase "file:webapps/login-ch09.jar" 
+{
+	permission javax.security.auth.AuthPermission "createLoginContext.Login1";
+	permission javax.security.auth.AuthPermission "doAsPrivileged";
+};
+
+grant principal com.sun.security.auth.NTUserPrincipal "Paul"  
+{
+	permission java.util.PropertyPermission "user.*", "read";
+};

@@ -1,0 +1,11 @@
+keystore "../../ipi/client.certs", "JKS";
+
+grant signedBy "IPI International"
+{
+  	permission java.security.AllPermission;
+	permission java.lang.RuntimePermission "usePolicy";
+	permission java.io.FilePermission "*", "read";
+	permission java.util.PropertyPermission "user.home", "read";
+  	permission java.security.AllPermission;
+};
+	

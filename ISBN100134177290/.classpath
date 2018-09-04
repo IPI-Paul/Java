@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jre1.8.0_171/lib/javaws.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/Derby Client JDBC Driver"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/postgresql-42.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/ucanaccess/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/ucanaccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/ucanaccess/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/ucanaccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/ucanaccess/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/asm/asm-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paul/Documents/Studies/Java/ISBN100134177290/drivers/asm/asm-commons-6.2.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
